@@ -1,7 +1,7 @@
 # fishpondsbristol.uk
 This is the first website I made independently, using HTML, CSS and Bootstrap. It serves my local park, community garden and a local community hall which hosts classes and other events.
 
-!!! I could not upload all the files on github because the files are too big. 
+!!! I could not upload all the files of this website on github because they are too big. 
 Therefore I only uploaded the files of the portal page. 
 
 You can visit the website here: 
