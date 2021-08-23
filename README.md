@@ -40,7 +40,7 @@ Did a very complex CSS code to make the frames always stay on top of the picture
 However. When I thought that the site is “completed”, and I bought the domain and uploaded it on a server and put it online, the site was having this massive white space on the right side of the website. I could scroll horizontally, and half of the content was my site and half was white space. I figured out that the problem comes from the frames somehow.
 The solution:  I just attached the images to the frames on gimp, making it just one image. This significantly simplified my title page code, and this sorted the problem. 
 
-2) Unexpectedly, the site was not being responsive on phones when I published it online.
+Unexpectedly, the site was not being responsive on phones when I published it online.
 
 I had done everything I thought is needed to make my site responsive. After I bought the domain and uploaded my site on infinity free, I had a look at the site on a phone, and to my horror, realized that the mobile version of my site is basically the computer display version made small. You could see everything, but the images and letters were so small, you could not read without zooming in. 
 This worried me quite a lot at first, I thought I must have made some fundamental mistake. 
