@@ -1,7 +1,10 @@
 # fishpondsbristol.uk
 This is the first website I made independently, using HTML, CSS and Bootstrap. It serves my local park, community garden and a local community hall which hosts classes and other events.
 
-You can visit it here: 
+!!! I could not upload all the files on github because the files are too big. 
+Therefore I only uploaded the files of the portal page. 
+
+You can visit the website here: 
 ## https://www.fishpondsbristol.uk/
 
 The site is hosted on Infinity Free (a free hosting platform). 
