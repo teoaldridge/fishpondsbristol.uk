@@ -1,0 +1,196 @@
+body {
+  text-align: center;
+}
+
+/*Viewport*/
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+
+/*Text*/
+h1 {
+  font-family: 'Architects Daughter', cursive;
+}
+
+h2, p {
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Containers*/
+.container-fluid {
+  padding: 7% 13%;
+}
+
+/*Section Colors*/
+.coloured-section {
+  background-color: #0A4934;
+  color: white;
+}
+
+.white-section{
+  background-color: white;
+  color: #0A4934;
+}
+
+/*Portal navbar*/
+.navbar-logo {
+  display: contents;
+}
+
+.logo {
+  margin-left: 10px;
+}
+
+.logo-text{
+  color:white;
+}
+
+.navbar-toggler {
+  margin: 40 0 40 0;
+}
+
+
+.dropdown-menu{
+opacity: 0.85;
+}
+
+/*Portal Images*/
+.portal-column{
+  padding-top: 5%;
+}
+
+.portal-image {
+  width: 20rem;
+  max-width: 95%;
+}
+
+/*Portal Headings*/
+.portal-heading{
+  color: white;
+  line-height:1.6;
+}
+
+
+/*Hover*/
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.portal-image:hover {
+  border: 3px solid orange;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+}
+
+.portal-heading:hover {
+  color: orange;
+}
+
+/*'Contacts Section*/
+
+.contact-heading{
+  margin-bottom: 7%;
+}
+
+.contacts-text{
+  line-height: 1.5;
+  font-size: 1.7rem;
+  margin: 5% 0;
+}
+
+.contact-details{
+line-height: 1.5;
+font-size: 1.2rem;
+display: inline-block;
+}
+
+.contact-icon{
+  font-size: 1.5rem;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.contact-icon:hover{
+  color: #81b214;
+}
+
+.contact-social-icon{
+  color: #1687a7;
+  font-size: 1.5rem;
+}
+
+.contact-social-icon:hover{
+  color:#81b214;
+}
+
+.btn-success{
+  margin-bottom: 7%;
+}
+
+/*Contact Form*/
+.form-container {
+  border-radius: 5px;
+  background-color: #bfdcae;
+  padding: 20px;
+  margin-top: 10%;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #0A4934;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #81b214;
+}
+
+/*Footer*/
+#footer{
+  background-color: #81b214;
+}
+
+.social-icon{
+  margin: 20px 10px;
+  font-size: 1.3rem;
+  color: #004445;
+}
+
+.social-icon:hover{
+  color: white;
+}
+
+.copyright-text{
+  color: #bfdcae;
+}
