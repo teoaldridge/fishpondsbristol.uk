@@ -111,6 +111,6 @@ I guess that the reason for this is that the website is about a lot of things, s
 
 Maybe I will need to separate this website in two websites- one just about the park, and one just about the hall, to get a better SEO. 
 
-Other things I could do for the site’s SEO in the future are to cite our cite more on social media, and on articles written on other websites and media. 
+Other things I could do for the site’s SEO in the future are to cite our website more on social media, and on articles written on other websites and media. 
 
 
